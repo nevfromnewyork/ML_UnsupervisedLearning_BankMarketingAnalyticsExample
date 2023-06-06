@@ -1,4 +1,4 @@
-# ML UnsupervisedLearning -- Bank Marketing Analytics Example
+# ML Unsupervised Learning -- Bank Marketing Analytics Example
 
 In this example, we are looking to help our banking client improve their marketing campaigns by identifying the optimal number of customer segments for their credit card clients.  Using a dataset that consists of customer data that includes ten different features. The data columns were anonymized using generic names to protect customers' privacy, and data values were already normalized.
 
